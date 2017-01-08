@@ -1,0 +1,410 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7E6F4C611E2233AE00E7EC3C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E6F4C601E2233AE00E7EC3C /* main.m */; };
+		7E6F4C641E2233AE00E7EC3C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E6F4C631E2233AE00E7EC3C /* AppDelegate.m */; };
+		7E6F4C671E2233AE00E7EC3C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E6F4C661E2233AE00E7EC3C /* ViewController.m */; };
+		7E6F4C6A1E2233AE00E7EC3C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E6F4C681E2233AE00E7EC3C /* Main.storyboard */; };
+		7E6F4C6C1E2233AE00E7EC3C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E6F4C6B1E2233AE00E7EC3C /* Assets.xcassets */; };
+		7E6F4C6F1E2233AE00E7EC3C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E6F4C6D1E2233AE00E7EC3C /* LaunchScreen.storyboard */; };
+		7E6F4C781E22345100E7EC3C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E6F4C661E2233AE00E7EC3C /* ViewController.m */; };
+		7E6F4C791E22345100E7EC3C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E6F4C631E2233AE00E7EC3C /* AppDelegate.m */; };
+		7E6F4C7A1E22345100E7EC3C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E6F4C601E2233AE00E7EC3C /* main.m */; };
+		7E6F4C7D1E22345100E7EC3C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E6F4C6D1E2233AE00E7EC3C /* LaunchScreen.storyboard */; };
+		7E6F4C7E1E22345100E7EC3C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E6F4C6B1E2233AE00E7EC3C /* Assets.xcassets */; };
+		7E6F4C7F1E22345100E7EC3C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E6F4C681E2233AE00E7EC3C /* Main.storyboard */; };
+		7E6F4C861E22358F00E7EC3C /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 7E6F4C851E22358F00E7EC3C /* Settings.bundle */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		7E6F4C5C1E2233AE00E7EC3C /* KKKiller.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KKKiller.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7E6F4C601E2233AE00E7EC3C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		7E6F4C621E2233AE00E7EC3C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		7E6F4C631E2233AE00E7EC3C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		7E6F4C651E2233AE00E7EC3C /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		7E6F4C661E2233AE00E7EC3C /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		7E6F4C691E2233AE00E7EC3C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		7E6F4C6B1E2233AE00E7EC3C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		7E6F4C6E1E2233AE00E7EC3C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		7E6F4C701E2233AE00E7EC3C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7E6F4C831E22345100E7EC3C /* KKKiller-Release.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "KKKiller-Release.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7E6F4C841E22345100E7EC3C /* KKKiller copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "KKKiller copy-Info.plist"; path = "/Users/xkk/Desktop/KKKiller/KKKiller copy-Info.plist"; sourceTree = "<absolute>"; };
+		7E6F4C851E22358F00E7EC3C /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7E6F4C591E2233AE00E7EC3C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7E6F4C7B1E22345100E7EC3C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7E6F4C531E2233AE00E7EC3C = {
+			isa = PBXGroup;
+			children = (
+				7E6F4C851E22358F00E7EC3C /* Settings.bundle */,
+				7E6F4C5E1E2233AE00E7EC3C /* KKKiller */,
+				7E6F4C5D1E2233AE00E7EC3C /* Products */,
+				7E6F4C841E22345100E7EC3C /* KKKiller copy-Info.plist */,
+			);
+			sourceTree = "<group>";
+		};
+		7E6F4C5D1E2233AE00E7EC3C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7E6F4C5C1E2233AE00E7EC3C /* KKKiller.app */,
+				7E6F4C831E22345100E7EC3C /* KKKiller-Release.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		7E6F4C5E1E2233AE00E7EC3C /* KKKiller */ = {
+			isa = PBXGroup;
+			children = (
+				7E6F4C621E2233AE00E7EC3C /* AppDelegate.h */,
+				7E6F4C631E2233AE00E7EC3C /* AppDelegate.m */,
+				7E6F4C651E2233AE00E7EC3C /* ViewController.h */,
+				7E6F4C661E2233AE00E7EC3C /* ViewController.m */,
+				7E6F4C681E2233AE00E7EC3C /* Main.storyboard */,
+				7E6F4C6B1E2233AE00E7EC3C /* Assets.xcassets */,
+				7E6F4C6D1E2233AE00E7EC3C /* LaunchScreen.storyboard */,
+				7E6F4C701E2233AE00E7EC3C /* Info.plist */,
+				7E6F4C5F1E2233AE00E7EC3C /* Supporting Files */,
+			);
+			path = KKKiller;
+			sourceTree = "<group>";
+		};
+		7E6F4C5F1E2233AE00E7EC3C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				7E6F4C601E2233AE00E7EC3C /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7E6F4C5B1E2233AE00E7EC3C /* KKKiller */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7E6F4C731E2233AE00E7EC3C /* Build configuration list for PBXNativeTarget "KKKiller" */;
+			buildPhases = (
+				7E6F4C581E2233AE00E7EC3C /* Sources */,
+				7E6F4C591E2233AE00E7EC3C /* Frameworks */,
+				7E6F4C5A1E2233AE00E7EC3C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = KKKiller;
+			productName = KKKiller;
+			productReference = 7E6F4C5C1E2233AE00E7EC3C /* KKKiller.app */;
+			productType = "com.apple.product-type.application";
+		};
+		7E6F4C761E22345100E7EC3C /* KKKiller-Release */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7E6F4C801E22345100E7EC3C /* Build configuration list for PBXNativeTarget "KKKiller-Release" */;
+			buildPhases = (
+				7E6F4C771E22345100E7EC3C /* Sources */,
+				7E6F4C7B1E22345100E7EC3C /* Frameworks */,
+				7E6F4C7C1E22345100E7EC3C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "KKKiller-Release";
+			productName = KKKiller;
+			productReference = 7E6F4C831E22345100E7EC3C /* KKKiller-Release.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7E6F4C541E2233AE00E7EC3C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = "馒头科技";
+				TargetAttributes = {
+					7E6F4C5B1E2233AE00E7EC3C = {
+						CreatedOnToolsVersion = 8.2.1;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 7E6F4C571E2233AE00E7EC3C /* Build configuration list for PBXProject "KKKiller" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 7E6F4C531E2233AE00E7EC3C;
+			productRefGroup = 7E6F4C5D1E2233AE00E7EC3C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7E6F4C5B1E2233AE00E7EC3C /* KKKiller */,
+				7E6F4C761E22345100E7EC3C /* KKKiller-Release */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		7E6F4C5A1E2233AE00E7EC3C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7E6F4C861E22358F00E7EC3C /* Settings.bundle in Resources */,
+				7E6F4C6F1E2233AE00E7EC3C /* LaunchScreen.storyboard in Resources */,
+				7E6F4C6C1E2233AE00E7EC3C /* Assets.xcassets in Resources */,
+				7E6F4C6A1E2233AE00E7EC3C /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7E6F4C7C1E22345100E7EC3C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7E6F4C7D1E22345100E7EC3C /* LaunchScreen.storyboard in Resources */,
+				7E6F4C7E1E22345100E7EC3C /* Assets.xcassets in Resources */,
+				7E6F4C7F1E22345100E7EC3C /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7E6F4C581E2233AE00E7EC3C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7E6F4C671E2233AE00E7EC3C /* ViewController.m in Sources */,
+				7E6F4C641E2233AE00E7EC3C /* AppDelegate.m in Sources */,
+				7E6F4C611E2233AE00E7EC3C /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7E6F4C771E22345100E7EC3C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7E6F4C781E22345100E7EC3C /* ViewController.m in Sources */,
+				7E6F4C791E22345100E7EC3C /* AppDelegate.m in Sources */,
+				7E6F4C7A1E22345100E7EC3C /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		7E6F4C681E2233AE00E7EC3C /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7E6F4C691E2233AE00E7EC3C /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		7E6F4C6D1E2233AE00E7EC3C /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7E6F4C6E1E2233AE00E7EC3C /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		7E6F4C711E2233AE00E7EC3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		7E6F4C721E2233AE00E7EC3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		7E6F4C741E2233AE00E7EC3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = KKKiller/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.mtedu.KKKiller;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		7E6F4C751E2233AE00E7EC3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = KKKiller/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.mtedu.KKKiller;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		7E6F4C811E22345100E7EC3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+					"KKRELEASE=1",
+				);
+				INFOPLIST_FILE = "KKKiller copy-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.mtedu.KKKiller;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		7E6F4C821E22345100E7EC3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PREPROCESSOR_DEFINITIONS = "KKRELEASE=1";
+				INFOPLIST_FILE = "KKKiller copy-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.mtedu.KKKiller;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7E6F4C571E2233AE00E7EC3C /* Build configuration list for PBXProject "KKKiller" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7E6F4C711E2233AE00E7EC3C /* Debug */,
+				7E6F4C721E2233AE00E7EC3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7E6F4C731E2233AE00E7EC3C /* Build configuration list for PBXNativeTarget "KKKiller" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7E6F4C741E2233AE00E7EC3C /* Debug */,
+				7E6F4C751E2233AE00E7EC3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		7E6F4C801E22345100E7EC3C /* Build configuration list for PBXNativeTarget "KKKiller-Release" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7E6F4C811E22345100E7EC3C /* Debug */,
+				7E6F4C821E22345100E7EC3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7E6F4C541E2233AE00E7EC3C /* Project object */;
+}
